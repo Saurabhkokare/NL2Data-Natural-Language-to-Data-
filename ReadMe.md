@@ -14,16 +14,15 @@ A powerful Gradio app that lets you ask questions in plain English and get answe
 
 1. **Clone this repository and install requirements:**
     ```
-    git clone https://github.com/yourusername/yourrepo.git
-    cd yourrepo
-    pip install -r requirements.txt
+    git clone https://github.com/Saurabhkokare/NL2Data-Natural-Language-to-Data-.git
+    cd NL2Data-Natural-Language-to-Data-
+    pip install -r requirement.txt
     ```
 
 2. **Set up your `.env` file with API keys:**  
    Create a `.env` file in the project root with your keys:
     ```
     GROQ_API_KEY=your-groq-api-key
-    OPENAI_API_KEY=your-openai-api-key
     ```
    > *These are required for LLM-powered query generation. You can get them from [Groq](https://console.groq.com/) and [OpenAI](https://platform.openai.com/).*
 
