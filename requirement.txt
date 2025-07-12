@@ -1,0 +1,13 @@
+gradio>=4.0.0
+pandas
+sqlalchemy
+psycopg2-binary
+mysql-connector-python
+cx_Oracle
+pyodbc
+pymongo
+langchain
+langchain-community
+langchain-groq
+python-dotenv
+openpyxl
