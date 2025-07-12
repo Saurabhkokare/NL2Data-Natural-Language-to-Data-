@@ -23,7 +23,6 @@ A powerful Gradio app that lets you ask questions in plain English and get answe
    Create a `.env` file in the project root with your keys:
     ```
     GROQ_API_KEY=your-groq-api-key
-    OPENAI_API_KEY=your-openai-api-key
     ```
    > *These are required for LLM-powered query generation. You can get them from [Groq](https://console.groq.com/) and [OpenAI](https://platform.openai.com/).*
 
