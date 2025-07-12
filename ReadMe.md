@@ -14,9 +14,9 @@ A powerful Gradio app that lets you ask questions in plain English and get answe
 
 1. **Clone this repository and install requirements:**
     ```
-    git clone https://github.com/yourusername/yourrepo.git
-    cd yourrepo
-    pip install -r requirements.txt
+    git clone https://github.com/Saurabhkokare/NL2Data-Natural-Language-to-Data-.git
+    cd NL2Data-Natural-Language-to-Data-
+    pip install -r requirement.txt
     ```
 
 2. **Set up your `.env` file with API keys:**  
